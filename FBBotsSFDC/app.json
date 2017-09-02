@@ -4,7 +4,7 @@
   "env": {
 	  "FB_TOKEN": {
 	        "description": "Consumer Key of your Salesforce Connected App",
-	        "value":'EAAEgu2pbR7QBAGk2lqSLrEdtotnjCejQypEZC4F9KIpx3geJltJAWSB6DIheSwzFNdpMTBavw3leIh5h2VzX0Mfrk2EtuF6DwjF2cv0hY1OyAV4cxj8ZB8SfkRqzbFTQfviCaoZCrzlaCZCZAZBDdGvdUoZC4VxqIS3YJRxbbhG9ZBGgrGZBSgxCG'
+	        "value":'EAAbHtHHpQiYBAMHKn5k0JN2oVIbvtgIND0D92RZAYBNvXyKibZBGEjzodE9y9oqrYel1ZAQA5KU08B0luS1PWcyisFn8Ds12bwpXNF2ZBBZC7q1gewz2g0X1DcZCCRrKRvEV9HUdpG99ZA7JtPvrKN64auyxPwobbMQktdJYq6bOS5zZBfezXFKN'
 	    },
     "SF_CONSUMER_KEY": {
         "description": "Consumer Key of your Salesforce Connected App",
